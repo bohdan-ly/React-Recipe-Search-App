@@ -2,6 +2,7 @@
   "name": "recipe-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://twelvegeater.github.io/React-Recipe-Search-App/",
   "dependencies": {
     "cra-template": "1.0.3",
     "react": "^16.13.1",
