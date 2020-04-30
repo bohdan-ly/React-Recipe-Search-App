@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Recipe-Search-App/static/css/main.b507ec05.chunk.css",
+    "main.js": "/React-Recipe-Search-App/static/js/main.92adf570.chunk.js",
+    "main.js.map": "/React-Recipe-Search-App/static/js/main.92adf570.chunk.js.map",
+    "runtime-main.js": "/React-Recipe-Search-App/static/js/runtime-main.89f02f71.js",
+    "runtime-main.js.map": "/React-Recipe-Search-App/static/js/runtime-main.89f02f71.js.map",
+    "static/js/2.e464cae5.chunk.js": "/React-Recipe-Search-App/static/js/2.e464cae5.chunk.js",
+    "static/js/2.e464cae5.chunk.js.map": "/React-Recipe-Search-App/static/js/2.e464cae5.chunk.js.map",
+    "index.html": "/React-Recipe-Search-App/index.html",
+    "precache-manifest.2c4dfdd95b4cc2ea32882d2db2225290.js": "/React-Recipe-Search-App/precache-manifest.2c4dfdd95b4cc2ea32882d2db2225290.js",
+    "service-worker.js": "/React-Recipe-Search-App/service-worker.js",
+    "static/css/main.b507ec05.chunk.css.map": "/React-Recipe-Search-App/static/css/main.b507ec05.chunk.css.map",
+    "static/js/2.e464cae5.chunk.js.LICENSE.txt": "/React-Recipe-Search-App/static/js/2.e464cae5.chunk.js.LICENSE.txt",
+    "static/media/BalooTamma2-Regular.ttf": "/React-Recipe-Search-App/static/media/BalooTamma2-Regular.05aa77b1.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89f02f71.js",
+    "static/js/2.e464cae5.chunk.js",
+    "static/css/main.b507ec05.chunk.css",
+    "static/js/main.92adf570.chunk.js"
+  ]
+}
